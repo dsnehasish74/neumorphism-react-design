@@ -1,4 +1,4 @@
-## neumorfic_react_design
+# neumorfic-react-design
 
 Documentation: [https://neumorphismreact.netlify.app/](https://neumorphismreact.netlify.app/)
 
