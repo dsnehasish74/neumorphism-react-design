@@ -33,13 +33,13 @@ export default App;
 ```
 
 **Features**
-  -Avatar
-  -Button
-  -Div
-  -Input
-  -Text
-  -Typography
-  -Container
+  - Avatar
+  - Button
+  - Div
+  - Input
+  - Text
+  - Typography
+  - Container
   
   
 **Contribution**
