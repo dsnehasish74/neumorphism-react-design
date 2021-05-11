@@ -1,16 +1,18 @@
-## neumorfic_react_design
+# neumorfic-react-design
 
 Documentation: [https://neumorphismreact.netlify.app/](https://neumorphismreact.netlify.app/)
+
 <br/>
 <a href="https://www.buymeacoffee.com/sdhar"><img src="https://github.com/dsnehasish74/neumorphism-react-design-website/blob/main/src/component/support.png"></img></a>
 <br/>
-Install:
+
+**Install**
 
 ```
 npm i neumorphism-react-design
 ```
 
-Demo Code: 
+**Usage**
 ```javascript
 import React from 'react';
 import {Div,Text,Container,Typography} from 'neumorphism-react-design';
@@ -30,4 +32,15 @@ export default App;
 
 ```
 
+**Features**
+  -Avatar
+  -Button
+  -Div
+  -Input
+  -Text
+  -Typography
+  -Container
+  
+  
+**Contribution**
 To Contribute in this repo click Here: [Click](https://github.com/dsnehasish74/neumorphism-react-design)
