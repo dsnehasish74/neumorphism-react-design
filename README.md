@@ -1,7 +1,9 @@
 ## neumorfic_react_design
 
 Documentation: [https://neumorphismreact.netlify.app/](https://neumorphismreact.netlify.app/)
-
+<br/>
+<a href="https://www.buymeacoffee.com/sdhar"><img src="https://github.com/dsnehasish74/neumorphism-react-design-website/blob/main/src/component/support.png"></img></a>
+<br/>
 Install:
 
 ```
