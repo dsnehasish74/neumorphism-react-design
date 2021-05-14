@@ -1,13 +1,11 @@
 
-<div align=”center”> 
-  # neumorphism-react-design
+<div align="center"> 
+  <h1>neumorphism-react-design</h1>
 
-  Documentation: [https://neumorphismreact.netlify.app/](https://neumorphismreact.netlify.app/)
-
+  Documentation: [Link](https://neumorphismreact.netlify.app/)
+  <br/>
   <br/>
   <a href="https://www.buymeacoffee.com/sdhar"><img src="https://github.com/dsnehasish74/neumorphism-react-design-website/blob/main/src/component/support.png"></img></a>
-  <br/>
-
 </div>
 
 **Install**
