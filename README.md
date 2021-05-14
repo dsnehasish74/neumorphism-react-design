@@ -36,13 +36,7 @@ npm i neumorphism-react-design
    ```
    $ npm install 
   ```
-  
-   ### 4. Run Locally 
-   ```
-   $ npm start  
-  ```
-  NOTE: The port by default will be ```http://localhost:3000/```
-  
+   
   
   
 ## Want to Contribute?
